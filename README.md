@@ -67,7 +67,7 @@
 - Use the AWS Management Console to create an S3 bucket:
    - Log in to the console and navigate to Amazon S3.
    - Click the "Create bucket" button.
-   - Provide a unique bucket name (e.g., "BB") and choose region and other settings as needed.
+   - Provide a unique bucket name and choose region and other settings as needed.
 
    ![s3-bucket](https://github.com/Y2O-Dev/ReactAppDeployment-S3-CDN/assets/114786664/15909d80-62ad-46c9-a932-074dbdc2050c)
 
